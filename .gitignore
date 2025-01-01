@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Ecommerce.ProductService/appsettings.json
+/Ecommerce.ProductService/Properties/launchSettings.json
+/Ecommerce.OrderService/Properties/launchSettings.json
+/Ecommerce.OrderService/appsettings.json
+/Ecommerce.Web/appsettings.json
+/Ecommerce.Web/Properties/launchSettings.json
